@@ -1,7 +1,7 @@
 #  Panic Perundungan
 
 ## Deskripsi
-Proyek ini adalah... [deskripsi singkat 1-2 kalimat]
+Proyek ini adalah proyek panic perundungan , yang dimana ketika ada yang klik tombol maka akan terhubung dengan guru BK - Kepala Sekolah dan Kepala Cabang Dinas
 
 ## Fitur
 - Fitur 1
